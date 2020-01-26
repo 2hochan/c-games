@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\programming\c++\191220_01\200125\vector\vector\main.cpp(18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  vector.vcxproj -> D:\Programming\c++\191220_01\200125\vector\Debug\vector.exe
+  vector.vcxproj -> D:\Programming\c++\191220_01\200125\vector\Debug\vector.pdb (Full PDB)
